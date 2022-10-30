@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "firstname": "Paco",
+      "lastname": "Yunque",
+      "birthdate": "2022-10-07",
+      "gender": "m",
+      "education": "graduate",
+      "company": "TECSUP Arequipa",
+      "jobExperience": 6,
+      "salary": 3500,
+      "profile": "user1.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Gabriel",
+      "lastname": "Diaz",
+      "birthdate": "2022-10-07",
+      "gender": "",
+      "education": "graduate",
+      "company": "AQP",
+      "jobExperience": 5,
+      "salary": 25000,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

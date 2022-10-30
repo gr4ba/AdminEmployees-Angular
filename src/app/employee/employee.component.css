@@ -1,0 +1,12 @@
+.black-boder{
+    border: 1px solid black;
+}
+
+img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+table {
+    width: 90%;
+}
